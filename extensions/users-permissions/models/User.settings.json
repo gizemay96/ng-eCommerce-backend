@@ -58,8 +58,8 @@
       "model": "cart"
     },
     "addresses": {
-      "collection": "address",
-      "via": "user"
+      "via": "user",
+      "collection": "address"
     },
     "avatar": {
       "model": "file",
